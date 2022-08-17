@@ -1,7 +1,9 @@
-Alireza Namjoo
+   ![Tux, the Linux mascot](http://namjoo.org/namjoo.jpg)
 
-Senior Full Stack Web Developer at Iranian Research Organization for Science and Technology (IROST)
+# Alireza Namjoo
 
-E-Mail: it@namjoo.org
+**Senior Full Stack Web Developer at Iranian Research Organization for Science and Technology (IROST)**
 
-For more info please visit namjoo.org.
+*E-Mail: it[at]namjoo.org*
+
+For more info please visit [namjoo.org](https://namjoo.org).
