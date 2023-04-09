@@ -4,6 +4,6 @@
 
 **Senior Full Stack Web Developer at Iranian Research Organization for Science and Technology (IROST)**
 
-*E-Mail: it[at]namjoo.org*
+*E-Mail: a[at]namjoo.org*
 
 For more info please visit [namjoo.org](https://namjoo.org).
